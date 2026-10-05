@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - master
+      - social-shorts
 
 permissions:
   contents: read
