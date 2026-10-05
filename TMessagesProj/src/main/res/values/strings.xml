@@ -11221,4 +11221,6 @@
     <string name="UnsupportedMessageTitle">Unsupported Message</string>
     <string name="UnsupportedMessageMessage">Update TeleVise to view this message</string>
     <string name="UnsupportedUpdate">Update</string>
+
+    <string name="Shorts">Shorts</string>
 </resources>
